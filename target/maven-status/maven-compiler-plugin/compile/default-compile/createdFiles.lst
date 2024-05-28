@@ -1,0 +1,5 @@
+am/vahe/spring/config/MySpringMvcDispatcherSerlvetIntitializer.class
+am/vahe/spring/controllers/PeopleController.class
+am/vahe/spring/models/Person.class
+am/vahe/spring/dao/PersonDAO.class
+am/vahe/spring/config/SpringConfig.class
